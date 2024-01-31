@@ -45,7 +45,7 @@ This is an end to end LLM project based on Google Palm and Langchain. We are bui
     streamlit run ui.py
 
     ```
-    ![Streamlit UI](Assests\ui.png)
+    ![Streamlit UI](Assests/ui.png)
 2. Run the API  executing:
 
     ```bash
@@ -86,7 +86,7 @@ Now go to <a href="http://127.0.0.1:8000/docs" class="external-link" target="_bl
 
 You will see the automatic interactive API documentation (provided by <a href="https://github.com/swagger-api/swagger-ui" class="external-link" target="_blank">Swagger UI</a>):
 
-![Swagger UI](Assests\Api.png)
+![Swagger UI](Assests/Api.png)
 
 
 3.The web app will open in your browser.
